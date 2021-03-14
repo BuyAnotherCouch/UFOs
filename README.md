@@ -4,6 +4,7 @@ The purpose of this analysis is to list UFO sightings on a webpage and allow use
 
 ## Result
 -	To access the UFO Finder, click [here](https://buyanothercouch.github.io/UFOs/).
+
 -	To perform a search:
        1.  Select a date from the table, type it into the Enter Date input box, and then press Enter.
        2.	Select a city from the table, type it into the Enter a City input box, and then press Enter.
